@@ -1,0 +1,23 @@
+*{
+    margin:0;
+    font-family: 'Open Sans', sans-serif;
+}
+/* heaber and navigation style*/
+
+nav{
+    display: none;
+    justify-content: space-between;
+}
+.nav-title {
+    font-weight: 800;
+    font-size:45px;
+
+. text-primary}
+
+.text-primary{
+    color:#fd6e0a
+
+}
+nav ul{
+    list-style: none;
+}
